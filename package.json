@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "generate-passphrase": "^1.2.0"
+  },
+  "name": "key-generator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "zubayr khalid",
+  "license": "ISC",
+  "description": ""
+}
